@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "603299099338",
+    "project_id": "visualitzacio-dades-plc---tfg",
+    "storage_bucket": "visualitzacio-dades-plc---tfg.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603299099338:android:e7c7629a9a8ba82a6efa33",
+        "android_client_info": {
+          "package_name": "PLC.Vision.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCda2e8OzWy08tyESycG7jPcPICeustvk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603299099338:android:defbfd75853c14076efa33",
+        "android_client_info": {
+          "package_name": "Visualitzacio.dades.PLC.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCda2e8OzWy08tyESycG7jPcPICeustvk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603299099338:android:7495fe4fe9b9082c6efa33",
+        "android_client_info": {
+          "package_name": "com.example.app_visualitzacio_tiaportal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCda2e8OzWy08tyESycG7jPcPICeustvk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
